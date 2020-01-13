@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/philsnook/LightBootJSS.git"
+    "url": "git+https://github.com/philsnook/lightboot-jsst"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/philsnook/LightBootJSS/issues"
+    "url": "https://github.com/philsnook/lightboot-jss/issues"
   },
-  "homepage": "https://github.com/philsnook/LightBootJSS#readme",
+  "homepage": "https://github.com/philsnook/lightboot-jss#readme",
   "dependencies": {
     "react-jss": "^10.0.3"
   }
