@@ -1,6 +1,6 @@
 {
   "name": "lightboot-jss",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "react-jss version of lightboot",
   "main": "index.js",
   "scripts": {
