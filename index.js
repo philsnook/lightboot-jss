@@ -1,3 +1,3 @@
-import { LightbootJss } from "./lightboot-jss";
+import LightbootJss from "./lightboot-jss";
 
-export default { LightbootJss };
+export default LightbootJss;
